@@ -1,1 +1,3 @@
-# computer_enhance
+# Computer Enhance
+
+Computer Enhance homeworks in C3.
